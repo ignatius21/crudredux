@@ -9,6 +9,11 @@
       "nombre": "aceite",
       "precio": "654",
       "id": 4
+    },
+    {
+      "nombre": "papas",
+      "precio": "300",
+      "id": 5
     }
   ]
 }

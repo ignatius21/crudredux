@@ -6,6 +6,7 @@ import { crearNuevoProductoAction } from '../actions/productoActions';
 
 import { useNavigate } from 'react-router-dom';
 
+
 const NuevoProductos = ({history}) => {
 
   // State del componente
@@ -78,6 +79,7 @@ const NuevoProductos = ({history}) => {
               <button
                 type="submit"
                 className="btn btn-primary font-weight-bold text-uppercase d-block w-100"
+
               >
                 Agregar
               </button>
